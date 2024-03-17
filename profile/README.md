@@ -4,13 +4,13 @@ Udan Khatola is a cutting-edge organization dedicated to pushing the boundaries 
 ## Our Flagship Project: [**GeminiFlight**](https://github.com/Udan-Khatola/GeminiFlight)
 At the heart of Udan Khatola lies GeminiFlight, our open-source drone flight controller ecosystem. GeminiFlight is a comprehensive suite of firmware, hardware, and software components designed to unleash the full potential of your drone projects.
 
-### Hardware
+### [Hardware](https://github.com/Udan-Khatola/GeminiFlight-Hardware)
 We offer meticulously designed and thoroughly tested flight controller boards, ranging from basic prototyping platforms to high-performance systems tailored for demanding missions.
 
-### Firmware
+### [Firmware](https://github.com/Udan-Khatola/GeminiFlight-Firmware)
 Our highly optimized and modular firmware provides robust flight control capabilities, seamless integration with various sensors, and a rich set of features for advanced drone applications.
 
-### Software
+### [Software](https://github.com/Udan-Khatola/GeminiFlight-Host)
 Complementing the firmware and hardware, our user-friendly software tools simplify configuration, calibration, and mission planning, empowering you to take your drone projects to new heights.
 
 ## Research and Innovation
