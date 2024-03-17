@@ -1,6 +1,5 @@
-![Udan Khatola Logo](/profile/UdanKhatolaLogoWide.png)
-
 # Welcome to Udan Khatola 👋
+![Udan Khatola Logo](/profile/UdanKhatolaLogoWide.png)
 Udan Khatola is a cutting-edge organization dedicated to pushing the boundaries of drone technology. We are passionate about empowering developers, researchers, and enthusiasts with open-source solutions for building and customizing drones.
 
 ## Our Flagship Project: [**GeminiFlight**](https://github.com/Udan-Khatola/GeminiFlight)
