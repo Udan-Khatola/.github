@@ -19,6 +19,7 @@ Complementing the firmware and hardware, our user-friendly software tools simpli
 At Udan Khatola, we are constantly exploring new frontiers in drone technology. Our dedicated research team collaborates with academia and industry partners to develop innovative solutions for drone frames, aerodynamics, and control systems. The fruits of our research are openly shared with the community, fostering continuous progress and growth.
 
 ## [Join the Udan Khatola Discord Community](https://discord.gg/ZVNHDw3ey3)
+[![Udan Khatola Discord](/profile/UdanKhatolaDiscord.png)](https://discord.gg/ZVNHDw3ey3)
 We believe in the power of open collaboration and welcome contributions from developers, makers, and enthusiasts worldwide. Whether you're a seasoned drone expert or just starting your journey, Udan Khatola provides a vibrant community and ample resources to support your endeavors.
 
 ## Commercialization and Support
