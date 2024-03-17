@@ -29,6 +29,6 @@ We believe in the power of open collaboration and welcome contributions from dev
 
 
 ## Commercialization and Support
-While our core projects are open-source, we also offer a range of commercial products and services to support your drone ventures. [Visit our online store](https://udankhatola.store) to explore our curated selection of drone frames, components, and accessories. Our dedicated support team is available to assist you with any queries or customization requirements.
+While our core projects are open-source, we also offer a range of commercial products and services to support your drone ventures. [Visit our online storefront](https://udankhatola.store) to explore our curated selection of drone frames, components, and accessories. Our dedicated support team is available to assist you with any queries or customization requirements.
 
 Let's soar together! 🚀
